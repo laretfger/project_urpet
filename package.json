@@ -1,0 +1,17 @@
+{
+  "name": "app_entities",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@prisma/client": "^5.21.1",
+    "express": "^4.21.1",
+    "prisma": "^5.21.1"
+  }
+}
